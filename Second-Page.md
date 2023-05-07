@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # SWAPI Reference—Endpoint: /people/id/
 ## Resource
 people
