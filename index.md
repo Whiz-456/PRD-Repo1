@@ -5,7 +5,7 @@ The Star Wars API (SWAPI) is the world's first quantified and programmatically-a
 The SWAPI provides a wealth of data about the Star Wars universe to build applications. With the SWAPI, developers can access detailed Star Wars related data about people, planets, films, species and much more. From web and mobile applications to data analysis, the possibilities are limitless.
 
 All the data is accessible through the SWAPI'S HTTP web API.
-Visit https://swapi.dev/ and https://swapi.dev/documentation to learn more.
+Visit [https://swapi.dev/](https://swapi.dev/) and [https://swapi.dev/documentation](https://swapi.dev/documentation) to learn more.
 Helper libraries for popular programming languages are also provided so you can consume SWAPI in your favourite programming language, in a style that suits you.
 ## How to use the SWAPI?
 Here are a few examples of what developers can build using the SWAPI:
