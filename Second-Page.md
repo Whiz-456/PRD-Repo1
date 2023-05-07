@@ -1,5 +1,6 @@
 ---
 nav_order: 2
+parent: SWAPI Overview
 ---
 
 # SWAPI Reference—Endpoint: /people/id/
