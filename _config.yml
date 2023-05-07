@@ -7,3 +7,7 @@ author: gwp@gmail.com
 markdown: kramdown
 
 theme: minima
+
+header_pages:
+  - index.md
+  another_page.md
