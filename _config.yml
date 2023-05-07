@@ -6,8 +6,6 @@ author: gwp@gmail.com
 
 markdown: kramdown
 
-theme: minima
+remote-theme: just-the-docs/just-the-docs
 
-header_pages:
-  - index.md
-  - Second-Page.md
+
