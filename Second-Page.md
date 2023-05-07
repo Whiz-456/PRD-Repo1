@@ -23,6 +23,6 @@ https://swapi.py4e.com/api/people/{id}
 ## Example URL
 https://swapi.py4e.com/api/people/1/
 ## Path Parameters
-| Parameters | Data Type | Examples of Values | Description |
-| ---------- | --------- | ------------------ | ----------- |
-| id         | number    | "1"                | There are 87 people resources. Use values from 1 to 87.	Unique id of the person or the character from the people resource in the Star Wars Universe |
+|Parameters|Data Type|Examples of Values|Description|
+|----------|---------|------------------|-----------|
+|id| number| "1"| There are 87 people resources. Use values from 1 to 87.	Unique id of the person or the character from the people resource in the Star Wars Universe|
