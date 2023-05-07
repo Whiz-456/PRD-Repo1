@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # SWAPI Overview
 ## What is SWAPI?
 The Star Wars API (SWAPI) is the world's first quantified and programmatically-accessible data source for all the data from the Star Wars canon universe! You can consume all the rich contextual stuff from the Star Wars universe using SWAPI.
