@@ -3,6 +3,8 @@ nav_order: 2
 parent: SWAPI Overview
 ---
 
+{% include snippets1.md %}
+
 # SWAPI Reference—Endpoint: /people/id/
 ## Resource
 people
