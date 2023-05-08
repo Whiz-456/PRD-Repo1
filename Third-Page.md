@@ -24,6 +24,7 @@ https://swapi.py4e.com/api/people/
 | Parameters |	Data Type |	Values | Description |
 | ---------- | ---------- | ------ | ----------- |
 | name |	string |	"luke" |	The person's name or the character name by which the resource data is filtered. |
+
 ## Sample Response
 ```
 {
