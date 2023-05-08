@@ -94,3 +94,5 @@ https://swapi.py4e.com/api/people/
      ]
 }
 ```
+{{ site.description }}
+
